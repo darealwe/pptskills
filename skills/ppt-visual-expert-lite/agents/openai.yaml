@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT视觉专家 · 开源基础版"
+  short_description: "梳理中文汇报结构，改善标题层级、基础配色与图文排版，制作可编辑演示稿"
+  default_prompt: "用 $ppt-visual-expert-lite 根据我提供的内容制作一份清晰的PPT，保留事实和数据，检查每页排版。"
