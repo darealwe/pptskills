@@ -17,9 +17,9 @@
 
 ## 看看示例
 
-![NOVA 原创电子产品概念演示](media/nova-preview.jpg)
+![NOVA 原创电子产品概念演示](nova-preview.jpg)
 
-[观看 30 秒宣传视频](media/pptskills-30s.mp4) · [下载示例 PPTX](media/nova-example.pptx)
+[观看 30 秒宣传视频](pptskills-30s.mp4) · [下载示例 PPTX](https://github.com/darealwe/pptskills/raw/refs/heads/main/nova-example.pptx)
 
 NOVA S1 是为本项目创作的虚构电子产品，产品图由 AI 生成；容量、结构与配色仅用于设计演示。PPTX 包含需求页与四页案例，文字和产品图片分别保留为对象，产品图片本身是位图。视频使用额外的三维动画制作流程，基础技能不包含该视频工程，也不保证一条指令复现演示效果。
 
@@ -52,7 +52,7 @@ Windows 可使用 `py -3 install.py`。可通过 `--dest` 指定技能父目录�
 内容：[粘贴你自己的资料]
 ```
 
-更多可复制输入见 [示例需求](examples/试用需求.md)。文件里是演示用的虚构练习内容，不是已完成效果案例。
+更多可复制输入见 [示例需求](example-input.md)。文件里是演示用的虚构练习内容，不是已完成效果案例。
 
 ## 与完整品牌服务的区别
 
